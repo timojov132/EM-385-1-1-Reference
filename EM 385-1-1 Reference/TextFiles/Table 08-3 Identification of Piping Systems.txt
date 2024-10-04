@@ -1,0 +1,8 @@
+Table 08-3 		
+Identification of Piping Systems		
+Outside diameter of pipe or covering 	Length of color field “A” 	Size of letters “B” 
+3/4 to 1 1/4 inches 	8 inches 	1/2 inch 
+1 1/2 to 2 inches 	8 inches 	3/4 inch 
+2 1/2 to 6 inches 	12 inches 	1 1/4 inch 
+8 to 10 inches 	24 inches 	2 1/2 inch 
+over 10 inches 	32 inches 	2 1/2 inch 

@@ -1,0 +1,6 @@
+Table 21-1
+Safety Net Distances
+Vertical Distance from Working Level to Horizontal Plane of Net	Minimum Required Horizontal Distance of Outer Edge of Net from Edge of Working Surface
+Up to 5 ft (up to 1.5 m)	8 ft (2.5 m)
+5 ft up to 10 ft (1.5 m up to 3.1 m)	10 ft (3.1 m)
+more than 10 ft (more than 3.1 m)	13 ft (4 m)

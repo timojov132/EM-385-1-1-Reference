@@ -1,0 +1,14 @@
+Table G-5			
+Dive Team Composition			
+Surface Supplied Mixed Gas Diving			
+	Dives within no decompression limits	Dives requiring	
+		decompression	Penetration Dives
+			
+Personnel			
+Diving Supervisor	1	1	1
+Chamber Operator**	**/1	****/1	1
+Diver	1	1	2
+Standby Diver*	1	1	1
+Tender	1	1	2
+Standby Diver Tender	1	1	1
+TOTAL TEAM	6-May	6-May	8

@@ -1,0 +1,9 @@
+Table 05-4	
+Non-DoD Continuous Noise Exposures (OSHA Standard)
+Duration per day (hours)	Permissible sound-pressure level (dBA) 
+8	85
+4	88
+2	91
+1	94
+0.5 = 30 min 	97
+0.25 = 15 min 	100

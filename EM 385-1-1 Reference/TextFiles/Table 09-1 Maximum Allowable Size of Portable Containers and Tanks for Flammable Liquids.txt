@@ -1,0 +1,9 @@
+Table 09-1				
+Maximum Allowable Size of Portable Containers and Tanks for Flammable Liquids				
+Container type	Flammable Liquids Categories			
+	1	2	3	4
+Glass 	16 oz (473 mL)	32 oz (946 mL)	1gal (3.8 L)	1 gal (3.8 L)
+Metal (other than DOT drums or approved plastic)	1 gal (3.8 L)	5 gal (19 L)	5 gal (19 L)	5 gal (19 L)
+Safety cans 	2 gal (7.6 L)	5 gal (19 L)	5 gal (19 L)	5 gal (19 L)
+Metal drum (DOT) specification 	60 gal (8.1 ft3) (0.23 m3)	60 gal (8.1 ft3) (0.23 m3)	60 gal (8.1 ft3) (0.23 m3)	60 gal (8.1 ft3) (0.23 m3)
+Approved metal portable tanks 	660 gal (88.3 ft3) (2.5 m3)	660 gal (88.3 ft3) (2.5 m3)	660 gal (88.3 ft3) (2.5 m3)	660 gal (88.3 ft3) (2.5 m3)

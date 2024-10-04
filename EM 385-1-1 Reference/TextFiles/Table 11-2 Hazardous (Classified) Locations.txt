@@ -1,0 +1,15 @@
+Table 11-2	
+Hazardous (Classified) Locations	
+Class I	
+"Gasses, Vapors or Liquids (A, B, C and D)"	
+Division 1	Division 2
+Normally explosive and hazardous	Not normally present in an explosive concentration (but may accidentally exist).
+Zone 0 (IEC Stds)	Zone 1 (IEC Stds)
+Class II	
+"Dusts (E, F and G)"	
+Division 1	Division 2
+Ignitable quantity of dust that is normally or may be, in suspension or conduc dust may be present	Dust not normally suspended in an ignitable concentration (but may accidentally exist). Dust layers are present.
+Class III	
+Fibers or Flyings (H)	
+Division 1	Division 2
+Handled or used in manufacturing	Stored or handled in storage (exclusive of manufacturing).

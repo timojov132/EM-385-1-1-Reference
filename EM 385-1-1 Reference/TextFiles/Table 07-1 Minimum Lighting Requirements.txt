@@ -1,0 +1,36 @@
+Table 07-1
+Minimum Lighting Requirements
+Facility or Function	Lux	Foot Candles (lm/ft2)
+Accessways		
+- general indoor	55	5
+- general outdoor	33	3
+"- exitways, walkways, ladders, stairs"	110	10
+"Administrative areas (offices, drafting and meeting rooms, etc.)"	540	50
+Chemical laboratories	540	50
+Construction areas		
+- general indoor	55	5
+- general outdoor	33	3
+"- tunnels and general underground work areas (min 110 lux required at tunnel/shaft heading during drilling, mucking, and scaling)"	55	5
+Conveyor routes	110	10
+Dam Operating Areas (Interior)		
+-Tunnels and underground work areas	55	5
+-Control Stations	150	15
+Docks and loading platforms	33	3
+"Elevators, freight and passenger"	50	5
+Temporary Electrical Panels (Interior)	300	30
+Temporary Electrical Panels (Exterior)	50	10
+First-aid stations and infirmaries	300	30
+Maintenance/operating areas/shops		
+- vehicle maintenance shop	300	30
+- carpentry shop	110	10
+"- refueling area, outdoors"	55	5
+"- shops, fine - medium detail work"	540-325	50-30
+- welding shop	300	30
+Mechanical/electrical equipment rooms	110	10
+Outdoor parking areas	33	3
+"Toilets, wash, and dressing rooms"	110	10
+Visitor areas	215	20
+Warehouses and storage rooms/areas		
+- indoor rack storage	270	25
+- outdoor storage	33	3
+Work areas ñ general (not listed above)	325	30

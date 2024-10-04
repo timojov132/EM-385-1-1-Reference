@@ -1,45 +1,71 @@
-//
-//  ChapterPageViewController.swift
-//  EM 385-1-1 Reference
-//
-//  Created by Kugan Panchadaram on 6/24/24.
-//
-
 import UIKit
 
 class ChapterPageViewController: UIPageViewController, UIPageViewControllerDelegate, UIPageViewControllerDataSource {
+
+    var chapterVC = [ChapterViewController]()
+    
+//    required init?(coder: NSCoder) {
+//           super.init(transitionStyle: .scroll, navigationOrientation: .horizontal, options: nil)
+//    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         configurePageVC()
     }
+    
     func configurePageVC() {
-//        guard let first = myControllers.first else {
-//            return }
-        let vc = UIPageViewController(transitionStyle: .scroll, navigationOrientation: .horizontal, options: nil)
-        let chapterVC = ChapterViewController()
-        vc.delegate = self
-        vc.dataSource = self
-        vc.setViewControllers([chapterVC], direction: .forward, animated: true, completion: nil)
-        present(vc, animated: true)
+        if let pageVC = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "Chapter1ViewController") as? ChapterViewController {
+            chapterVC.append(pageVC)
+        }
+        if let pageVC = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "Chapter2ViewController") as? ChapterViewController {
+            chapterVC.append(pageVC)
+        }
+        if let pageVC = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "Chapter3ViewController") as? ChapterViewController {
+            chapterVC.append(pageVC)
+        }
+//        let page1VC = ChapterViewController("A", "B", "B", cellID: "Ref1ItemCell")
+//        let page2VC = ChapterViewController("B", "C", "A", cellID: "Ref2ItemCell")
+//        let page3VC = ChapterViewController("C", "D", "B", cellID: "Ref3ItemCell")
+//        chapterVC.append(page1VC)
+//        chapterVC.append(page2VC)
+//        chapterVC.append(page3VC)
+        self.setViewControllers([chapterVC[0]], direction: .forward, animated: false, completion: nil)
+        self.delegate = self
+        self.dataSource = self
     }
     
     func pageViewController(_ pageViewController: UIPageViewController, viewControllerBefore viewController: UIViewController) -> UIViewController? {
-        let vc = ChapterViewController()
-        let chapterModel = ChapterModel()
-        if chapterModel.currentSec > 0 {
-            chapterModel.currentSec = chapterModel.currentSec - 1
+    
+        if ChapterSettings.currentSec == 0 { return nil }
+        
+        guard let cur = chapterVC.firstIndex(of: viewController as! ChapterViewController) else { return nil }
+        
+        switch cur {
+        case 0:
+            return chapterVC[2]
+        case 1:
+            return chapterVC[0]
+        case 2:
+            return chapterVC[1]
+        default: return chapterVC[0]
         }
-        return vc
     }
     
     func pageViewController(_ pageViewController: UIPageViewController, viewControllerAfter viewController: UIViewController) -> UIViewController? {
-        let vc = ChapterViewController()
-        let chapterModel = ChapterModel()
-        if chapterModel.currentSec < chapterModel.sectionLet.count - 1 {
-            chapterModel.currentSec = chapterModel.currentSec + 1
+        
+        if ChapterSettings.currentSec >= ChapterSettings.sectionLet.count - 1 { return nil }
+        
+        guard let cur = chapterVC.firstIndex(of: viewController as! ChapterViewController) else { return nil }
+        
+        switch cur {
+        case 0:
+            return chapterVC[1]
+        case 1:
+            return chapterVC[2]
+        case 2:
+            return chapterVC[0]
+        default: return chapterVC[0]
         }
-        return vc
     }
     
 }

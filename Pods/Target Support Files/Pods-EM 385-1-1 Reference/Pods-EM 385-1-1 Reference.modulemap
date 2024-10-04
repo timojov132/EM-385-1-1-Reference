@@ -1,0 +1,6 @@
+framework module Pods_EM_385_1_1_Reference {
+  umbrella header "Pods-EM 385-1-1 Reference-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,12 @@
+Table 02-1	
+Minimum Toilet Facilities (Other than Construction Sites)
+Number of Employees	Minimum Number of Toilets
+1 to 15	One (1)
+16 to 35	Two (2)
+36 to 55	Three (3)
+56 to 80	Four (4)
+81 to 110	Five (5)
+111 to 150	Six (6)
+Over 150	Refer to Note 2
+Note 1: Where toilet facilities will not be used by women, urinals may be provided instead of commodes, except that the number of commodes in such cases shall not be reduced to fewer than 2/3 of the minimum number specified.	
+Note 2: One additional toilet fixture for each additional 40 employees.	

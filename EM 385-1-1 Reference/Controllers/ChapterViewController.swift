@@ -9,50 +9,63 @@ import RealmSwift
 
 class ChapterViewController: UIViewController {
     
-    @IBOutlet weak var ref1View: UITableView!
-    
-    var refData: Results<Sec21Formatted>?
+    var refData: Results<Reference>?
+    var refDataPrev: Results<Reference>?
+    var refDataNext: Results<Reference>?
+    var cellIdentifier = ""
     let realm = try! Realm()
-    var sectionsLetters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P"]
-    var currentSection = 0
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        loadReferenceData()
-        ref1View.dataSource = self
-//        let swipeRight = UISwipeGestureRecognizer(target: self, action: #selector(self.respondToSwipeGesture))
-//        swipeRight.direction = UISwipeGestureRecognizer.Direction.right
-//        self.view.addGestureRecognizer(swipeRight)
-//        let swipeLeft = UISwipeGestureRecognizer(target: self, action: #selector(self.respondToSwipeGesture))
-//        swipeLeft.direction = UISwipeGestureRecognizer.Direction.left
-//        self.view.addGestureRecognizer(swipeLeft)
-    }
     
     func loadReferenceData() {
-        let chapterModel = ChapterModel()
-        refData = realm.objects(Sec21Formatted.self).filter("section == '\(chapterModel.sectionLet[chapterModel.currentSec])'")
+        let section = ChapterSettings.sectionLet[ChapterSettings.currentSec]
+        let chapter = ChapterSettings.currentChapter
+        refData = realm.objects(Reference.self).filter("chapter == '\(chapter)' AND section == '\(section)'").distinct(by: ["content"])
+        if ChapterSettings.currentSec > 0 {
+            let prev = ChapterSettings.sectionLet[ChapterSettings.currentSec - 1]
+            refDataPrev = realm.objects(Reference.self).filter("chapter == '\(chapter)' AND section == '\(prev)'").distinct(by: ["content"])
+        }
+        if ChapterSettings.currentSec < ChapterSettings.sectionLet.count - 1 {
+            let next = ChapterSettings.sectionLet[ChapterSettings.currentSec + 1]
+            refDataNext = realm.objects(Reference.self).filter("chapter == '\(chapter)' AND section == '\(next)'").distinct(by: ["content"])
+        }
     }
-//    @objc func respondToSwipeGesture(gesture: UIGestureRecognizer) {
-//        if let swipeGesture = gesture as? UISwipeGestureRecognizer {
-//            switch swipeGesture.direction {
-//            case UISwipeGestureRecognizer.Direction.right:
-//                //right view controller
-//                let newViewController = ChapterTwoViewController()
-//                newViewController.currentSection = currentSection - 1
-//                performSegue(withIdentifier: "updateSection", sender: nil)
-////                self.navigationController?.pushViewController(newViewController, animated: true)
-//            case UISwipeGestureRecognizer.Direction.left:
-//                //left view controller
-//                let newViewController = ChapterTwoViewController()
-//                print(sectionsLetters[currentSection])
-//                newViewController.currentSection = currentSection + 1
-//                performSegue(withIdentifier: "updateSection", sender: nil)
-//                //self.navigationController?.pushViewController(newViewController, animated: true)
-//            default:
-//                break
-//            }
-//        }
-//    }
+    
+    func updateReferenceData(_ currentPresenter: Int) {
+        switch currentPresenter {
+        case 0:
+            if ChapterSettings.currentView == 1 {
+                prev()
+            } else if ChapterSettings.currentView == 2 {
+                next()
+            }
+        case 1:
+            if ChapterSettings.currentView == 2 {
+                prev()
+            } else if ChapterSettings.currentView == 0 {
+                next()
+            }
+        case 2:
+            if ChapterSettings.currentView == 0 {
+                prev()
+            } else if ChapterSettings.currentView == 1 {
+                next()
+            }
+        default: print("Invalid Presenter")
+        }
+        ChapterSettings.currentView = currentPresenter
+    }
+    func next() {
+        if ChapterSettings.currentSec < ChapterSettings.sectionLet.count - 1 {
+            ChapterSettings.currentSec = ChapterSettings.currentSec + 1
+        }
+        loadReferenceData()
+    }
+    func prev() {
+        if ChapterSettings.currentSec > 0 {
+            ChapterSettings.currentSec = ChapterSettings.currentSec - 1
+        }
+        loadReferenceData()
+    }
+    
 }
 
 extension ChapterViewController: UITableViewDataSource {
@@ -62,19 +75,42 @@ extension ChapterViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let cell = tableView.dequeueReusableCell(withIdentifier: cellIdentifier, for: indexPath) as! ReferenceCell
         
-        let cell = tableView.dequeueReusableCell(withIdentifier: "Ref1ItemCell", for: indexPath)
-
         var content = cell.defaultContentConfiguration()
         content.text = refData?[indexPath.row].content ?? "No Data Found"
+        if refData?[indexPath.row].bookmark != true {
+            cell.bookmark.setImage(UIImage(named: "bookmark"), for: .normal)
+        } else {
+            cell.bookmark.setImage(UIImage(named: "bookmark.fill"), for: .normal)
+        }
+        if refData?[indexPath.row].topic == nil {
+            cell.backgroundColor = .yellow
+        } else if refData?[indexPath.row].refOne == nil{
+            cell.backgroundColor = .green
+        } else {
+            cell.backgroundColor = .clear
+        }
         cell.contentConfiguration = content
         
         return cell
     }
-    
-    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print(refData?[indexPath.row].content ?? "No Data Found")
-    }
-
 }
 
+extension ChapterViewController: UITableViewDelegate {
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let content = tableView.cellForRow(at: indexPath)?.contentConfiguration as? UIListContentConfiguration
+        let text = content?.text
+        let bookmarkUpdate = refData?.first(where: ({$0.content == text}))
+        try! realm.write{
+            let bookmark = !(bookmarkUpdate?.bookmark ?? true)
+            bookmarkUpdate?.setValue(bookmark, forKey: "bookmark")
+        }
+        tableView.deselectRow(at: indexPath, animated: true)
+    }
+}
+
+class ReferenceCell: UITableViewCell {
+    @IBOutlet var bookmark: UIButton!
+    
+}

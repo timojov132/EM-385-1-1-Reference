@@ -1,0 +1,31 @@
+Table 05-1					
+Eye and Face Protector Selection Guide
+IMPACT: \nChipping, grinding, machining, masonry work, riveting and sanding				
+Assessment See Note (1) 	Protector Type  	Protectors	Limitations	Not Recommended
+"Flying fragments, objects, large  chips, particles,  sand, dirt,  etc. "	"B, C, D, E,  F, G, H, I, J, K, L, N"	"Spectacles, goggles, faceshields See Notes (1)(3)(5)(6) (10) For severe exposures: add N"	Protective  devices do not provided  unlimited  protection. See Note (7)	Protectors that do not  provide protection from side exposure See Note (10) \nFilter or tinted lenses that  restrict light transmittance,  unless it is determined that a glare hazard exists. \nRefer to Optical Radiation. 
+HEAT: \nFurnace operations, pouring, casting, hot dipping, gas cutting, and welding
+Assessment See Note (1) 	Protector Type	Protectors 	Limitations 	Not Recommended
+Hot sparks 	"B, C, D, E, F, G, H, I, J, K, L, N"	"Faceshields, goggles, spectacles For severe Exposure, add N See Notes (2)(3)"	"Spectacles, cup and cover- type goggles do not provide unlimited facial protection See Note (2) "	Protectors that do not  provide protection from  side exposure
+Splash from Molten Metals	N 	Faceshields worn over  goggles  H,K See Notes (2)(3)		
+High Temperature Exposure	N 	Screen faceshields, reflective faceshields	See Note (3)	
+CHEMICAL: \nAcid and chemical handling, degreasing, plating				
+Assessment See Note (1) 	Protector Type  	Protectors	Limitations	Not Recommended 
+Splash 	"G, H, K, N"	For severe  exposure add N	Ventilation should be adequate but protected from splash entry	"Spectacles, welding helmets, hand shields"
+Irritating mists 	G	Special  purpose  goggles	See Note (3)	
+"DUST:  Woodworking, buffing, general industry conditions "				
+Assessment See Note (1)  	Protector Type	Protectors	Limitations	Not Recommended
+Nuisance dust 	"G, H, K "	"Goggles,  eyecup and  cover types "	Atmospheric conditions and the restricted ventilation of the protector can cause lenses to fog. Frequent cleaning may be required.	
+OPTICAL RADIATION:  Welding: electric arc				
+Assessment See Note (1) 	Protector Type	Protectors 	Limitations	Not Recommended
+"O, P, Q "	Typical filter lens shade	 	Protection from optical radiation is directly related to filter lens density. See Note (4). Select the darkest shade that allows adequate task performance. 	Protectors that do not provide protection from optical radiation.
+NOTES:				
+(1) Care should be taken to recognize the possibility of multiple and simultaneous exposure to a variety of hazards. Adequate protection against the highest level of each of the hazards must be provided.				
+(2) Operations involving heat may also involve optical radiation. Protection from both hazards shall be provided.				
+(3) Faceshields shall only be worn over primary eye protection.				
+(4) Filter lenses shall meet the requirements for shade designations in Table 5-2.				
+(5) Persons whose vision requires the use of prescription (Rx) lenses shall wear either protective devices fitted with prescription (Rx) lenses with sideshields or protective devices designed to be worn over regular prescription (Rx) eyewear.				
+(6) Wearers of contact lenses shall also be required to wear appropriate covering eye and face protection devices in a hazardous environment. It should be recognized that dusty and/or chemical environments may represent an additional hazard to contact lens wearers.				
+(7) Caution should be exercised in the use of metal frame protective devices in electrical hazard areas.				
+(8) Refer to ANSI/ASSE Z87-1, Section 6.5, Special Purpose Lenses.				
+(9) Welding helmets or hand shields shall be used only over primary eye protection.				
+(10) Non-sideshield spectacles are available for frontal protection only				

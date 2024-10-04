@@ -1,0 +1,9 @@
+Table 16-2
+Minimum Clearance Distance from Energized Overhead Electric Lines While   Traveling with No Load
+"Voltage (nominal, kV alternating current)"	", While traveling - minimum clearance distance"
+Up to 0.75	4 ft (1.2 m)
+.76 – 50	6 ft (1.8 m)
+51 – 345	10 ft (3.0 m)
+326 – 750	16 ft (4.9 m)
+751 – 1000	20 ft (6.1 m)
+"Over 1,000"	(As established by the utility owner/operator or RPE who is a QP with respect to electrical power transmission and distribution).

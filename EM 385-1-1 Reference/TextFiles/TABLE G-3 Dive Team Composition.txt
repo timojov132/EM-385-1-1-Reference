@@ -1,0 +1,10 @@
+Table G-3		
+Dive Team Composition		
+"Surface Supplied Air, 0 to 100 ft (0 to 30.5 m)"		
+Within No Decompression Limits		
+Personnel	Number	Penetration Dive
+Diving Supervisor ***	1	1
+Diver	1	2
+Standby Diver*	1	1
+Tender	1	2
+TOTAL TEAM	4	6

@@ -1,0 +1,8 @@
+Table 22-2	
+Minimum Dimensions for Horse Scaffold Members
+Members	Dimensions
+Horizontal members of bearers	3 x 3.9 in (7.6 x 10 cm)
+Legs	2 x 3.9 in (5 x 10 cm)
+Longitudinal brace between legs	1 x 5.9 in (2.5 x 15 cm)
+Gusset brace at top of legs	1 x 7.9 in (2.5 x 20 cm)
+Half diagonal braces	2 x 3.9 in (5 x 10 cm)

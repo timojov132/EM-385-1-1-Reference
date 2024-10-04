@@ -1,0 +1,44 @@
+Table 05-7
+Arc Flash Protective Clothing and PPE
+Hazard/Risk Category 	Protective Clothing and PPE 
+0	"Protective Clothing, Non-melting or Untreated Natural Fiber (i.e., untreated cotton, wool, rayon, or silk, or blends of these materials) with a fabric weight of at least 4.5 oz/yd² "
+	     Shirt (long sleeve) 
+	     Pants (long 
+	Protective Equipment:  Hard hat; Safety glasses/ goggles (SR); Hearing Protection (ear canal inserts);  Heavy-duty leather gloves (AN) (See Note 1);  Leather work boots 
+1	"Arc-Rated Clothing, Minimum Arc Rating of 4 cal/cm²   (See Note 3) "
+	     Arc-rated long-sleeve shirt and pants or arc-rated coverall 
+	     Arc-rated faceshield (See Note 2) or arc flash suit hood 
+	"     Arc-rated jacket, parka, rainwear, or hard hat liner (AN) "
+	Protective Equipment:  Hard hat;  Safety glasses/goggles (SR);  
+	Hearing protection (ear canal inserts); Heavy-duty       leather gloves (See Note 1);  Leather work boots 
+2	"Arc-Rated Clothing, Minimum Arc Rating of 8 cal/cm²   (See Note 3) "
+	     Arc-rated long-sleeve shirt and pants or arc-rated coverall 
+	     Arc-rated flash suit hood or arc-rated faceshield (See Note  2) and arc-rated balaclava 
+	"     Arc-rated jacket, parka, rainwear, or hard hat liner (AN) "
+	Protective Equipment:  Hard hat; Safety glasses/goggles (SR);  
+	Hearing protection (ear canal inserts); Heavy-duty       leather gloves (See Note 1);  Leather work boots 
+3	Arc-Rated Clothing selected so the System Arc Rating meets  the required minimum arc rating of 25 cal/cm² (See Note 3) 
+	     Arc-rated long-sleeve shirt (AR)      Arc-rated pants (AR) 
+	     Arc-rated coverall (AR) 
+	     Arc-rated arc flash suit jacket (AR) 
+	     Arc-rated arc flash suit pants (AR) 
+	     Arc-rated arc flash suit hood  
+	     Arc-rated gloves (See Note 1) 
+	"     Arc-rated jacket, parka, rainwear, or hard hat liner (AN) "
+	Protective Equipment:  Hard hat;  Safety glasses/goggles (SR); Hearing protection (ear canal inserts); Leather work boots 
+	 
+	 
+4	Arc-Rated Clothing selected so the System Arc Rating meets the required minimum Arc Rating of 40 cal/cm²  (See Note 3) 
+	     Arc-rated long-sleeve shirt (AR)      Arc-rated pants (AR) 
+	     Arc-rated coverall (AR) 
+	     Arc-rated arc flash suit jacket (AR) 
+	     Arc-rated arc flash suit pants (AR) 
+	     Arc-rated arc flash suit hood 
+	     Arc-rated gloves (See Note 1) 
+	"     Arc-rated jacket, parka, rainwear, or hard hat liner (AN) Protective Equipment:  Hard hat;  Safety glasses/goggles (SR); "
+	     Hearing protection (ear canal inserts); Leather work boots 
+AN: as needed (optional). AR: as required. SR: selection required. 	
+Notes: 	
+"(1) If rubber insulating gloves with leather protectors are required by NFPA 70E. Table 130.7(C)(9), additional leather or arc-rated gloves are not required. The combination of rubber insulating gloves with leather protectors satisfies the arc flash protection requirement. "	
+"(2) Face shields are to have wrap-around guarding to protect not only the face but also the forehead, ears, and neck, or, alternatively, an arc-rated arc flash suit hood is required to be worn. "	
+"(3) Arc rating is defined in Article 100 and can be either the arc thermal performance value (ATPV) or energy of break open threshold (EBT). ATPV is defined in ASTM F 1959, Standard Test Method for Determining the Arc Thermal Performance Value of Materials for Clothing, as the incident energy on a material, or a multilayer system of materials, that results in a 50 percent probability that sufficient heat transfer through the tested specimen is predicted to cause the onset of a second-degree skin burn injury based on the Stoll curve, in cal/cm2. EBT is defined in ASTM F 1959 as the incident energy on a material or material system that results in a 50 percent probability of breakopen. Arc rating is reported as either ATPV or EBT, whichever is the lower value."	

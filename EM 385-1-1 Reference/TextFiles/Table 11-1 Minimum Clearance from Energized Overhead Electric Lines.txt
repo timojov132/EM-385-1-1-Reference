@@ -1,0 +1,11 @@
+Table 11-1
+Minimum Clearance from Energized Overhead Electric Lines
+"Voltage (nominal, kV, alternating current")	Minimum clearance distance
+Up to 50	10 ft (3 m)
+51 – 200	15 ft (4.6 m)
+201 – 350	20 ft (6 m)
+351 – 500	25 ft (7.6 m)
+501 – 750	35 ft (10.7 m)
+751 – 1000	45 ft (13.7 m)
+"Over 1,000"	(As established by the utility owner/operator or registered professional engineer who is a qualified person with respect to electrical power transmission and distribution).
+NOTE: All dimensions are distances from live part to equipment and components at any potential reach	

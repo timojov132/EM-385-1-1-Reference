@@ -1,0 +1,11 @@
+Table 05-3		
+Settings for Noise Measuring Equipment		
+Feature	Dosimeter (ACGIH)	Dosimeter (DoD and USACE)*	Type 2 (or better) Sound Level Meter for Continuous Noise (USACE)*	Type 1 Sound Level Meter for Impulse Noise (USACE)*
+Criterion Time 	8 hours 	8 hours 	8 hours 	8 hours 
+Criterion Level 	85 dB 	85 Db 	85 dB 	85 dB 
+Weighting 	A 	A 	A 	"Unweighted,  linear, or Z "
+Peak Weighting 	Unweighted 	"Unweighted, linear, or Z"	"Unweighted, linear, or Z"	"Unweighted,  linear, or Z "
+Threshold Level	 80 dB 	80 dB 	80 dB 	140 dB 
+Upper bound on integration 	130 dB 	None 	None 	None 
+Time Weighting 	Slow 	Slow 	Slow 	Impulse 
+Exchange Rate 	5 dB 	3 dB 	3 dB 	3 dB 

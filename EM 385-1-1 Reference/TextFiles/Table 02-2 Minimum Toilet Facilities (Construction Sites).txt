@@ -1,0 +1,7 @@
+Table 02-2	
+Minimum Toilet Facilities (Construction Sites)
+Number of Employees	Minimum Number of Toilets
+20 or fewer	One (1)
+20 or greater	One (1) toilet seat and \nOne (1) urinal per 40 workers.
+200 or greater	One (1) toilet seat and \nOne (1) urinal per 50 workers.
+Note: Where toilet facilities will not be used by women, urinals may be provided instead of commodes, except that the number of commodes in such cases shall not be reduced to fewer than 2/3 of the minimum number specified.	

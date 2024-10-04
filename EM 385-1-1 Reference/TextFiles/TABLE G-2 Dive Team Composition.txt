@@ -1,0 +1,11 @@
+Table G-2	
+Dive Team Composition	
+"SCUBA – Tethered with communications, 0 to 100 ft (0 to 30.5 m)"	
+Personnel	Number
+Diving Supervisor ***	1
+Diver in water	1
+Standby Diver* (tethered with communications)	
+	
+	1
+Tender	1
+TOTAL TEAM	4

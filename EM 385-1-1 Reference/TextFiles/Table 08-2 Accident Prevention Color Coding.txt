@@ -1,0 +1,9 @@
+Table 08-2 	
+Accident Prevention Color Coding
+COLOR	PURPOSE
+Red	"Red shall be the color used for identifying dangerous conditions, emergency controls, fire detection equipment and fire suppression systems, and containers of flammable liquids."
+Orange	Orange shall be the color used for designating dangerous parts of machines and energized equipment. Orange shall also be used for temporary traffic control signs in construction zones.
+Yellow	"Yellow shall be the color for designating conditions requiring caution, marking dangerous chemicals, marking physical hazards, and markings for ionizing radiation."
+Green	Green shall be the color for designating safety equipment and operator devices and the location of first-aid and safety equipment (other than firefighting equipment).
+Blue	Blue shall be the color used for designating information of a non-safety nature.
+Purple	Purple shall be the color used to designate ionizing radiation hazards.

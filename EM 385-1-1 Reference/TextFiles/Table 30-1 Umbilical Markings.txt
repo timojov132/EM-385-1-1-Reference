@@ -1,0 +1,17 @@
+Table 30-1
+Umbilical Markings
+Distance (from diver’s end)	Marking
+10 ft [3 m]	one white band
+20 ft [6.1 m]	two white bands
+30 ft [9.2 m]	three white bands
+40 ft [12.2 m]	four white bands
+50 ft [15.2 m]	one yellow band
+60 ft [18.3 m]	1 yellow/1 white
+70 ft [21.3 m]	1 yellow/2 white
+80 ft [24.4 m]	1 yellow/3 white
+90 ft [27.4 m]	1 yellow/4 white
+100 ft [30.5 m]	1 red band
+150 ft [45.7 m]	1 red/1 yellow
+200 ft [61 m]	2 red bands
+250 ft [76.2 m]	2 red/1 yellow
+300 ft [91.5 m]	3 red bands

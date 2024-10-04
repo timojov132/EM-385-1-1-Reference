@@ -1,0 +1,17 @@
+Table 22-1	
+Form Scaffolds
+(Minimum Design Criteria for Wooden Bracket Form Scaffolds)	
+Members	Dimensions
+Bracket uprights	2 x 4 in or 2 x 6 in (5 x 10.1 cm or 5 x 15.2 cm)
+Bracket support ledgers	2 x 6 in (5 x 15.2 cm)
+Maximum bracket width	3 ft 6 in (1 m)
+Bracket braces	1 x 6 in (2.5 x 15.2 cm)
+Guardrail post	2 x 4 in (5 x 10.1 cm)
+Guardrail height	36 to 45 in (91.4 to 114.3 cm)
+Midrail 	1 x 6 in (2.5 x 15.2 cm)
+Toeboards	1 x 6 in (2.5 x 15.2 cm)
+Bracket uprights	2 x 4 in or 2 x 6 in (5 x 10.1cm or 5 x 15.2cm)
+Bracket outrigger ledgers	(2) 1 x 6 in (2.5 x 15.2 cm)
+Bracket braces	(2) 1 x 6 in (2.5 x 15.2 cm)
+Maximum length of ledgers	3 ft 6 in (1 m) (unsupported)
+Bracket upright spacing	8 ft (2.4 m) (on centers)

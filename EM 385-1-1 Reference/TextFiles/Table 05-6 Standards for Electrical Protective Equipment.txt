@@ -1,0 +1,14 @@
+Table 05-6
+Standards for Electrical Protective Equipment
+SUBJECT	NUMBER AND TITLE 
+Head Protection	ISEA/ANSI Z89.1, Requirements for Protective Headwear for Industrial Workers
+Eye and face Protection	"ANSI Z87.1, Practice for Occupational and Educational  Eye and Face Protection "
+Gloves	ASTM D120-02a, Standard Specification for  Rubber Insulating Gloves
+Sleeves	ASTM D1051, Standard Specification for  Rubber Insulating Sleeves
+Gloves and sleeves	ASTM F496, Standard Specification for In-Service Care of Insulating Gloves and Sleeves 
+Leather protectors 	ASTM F696, Standard Specification for Leather Protectors  for Rubber Insulating Gloves and Mittens 
+Footwear	ASTM F1117, Standard Specification for  Dielectric Overshoe Footwear
+	ASTM 2412, Standard Test Methods for Foot Protection
+	ASTM 2413, Standard Specification for Performance  Requirements for Foot Protection
+Visual inspection	ASTM F1236, Standard Guide for Visual Inspection of Electrical Protective Rubber Products
+Apparel	ASTM F1506, Standard Performance Specification for Flame Resistant Textile Materials for Wearing Apparel for Use  by Electrical Workers When Exposed to Momentary Electric  Arc and Related Thermal Hazards 

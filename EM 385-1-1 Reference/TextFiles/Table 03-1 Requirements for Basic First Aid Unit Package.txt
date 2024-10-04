@@ -1,0 +1,25 @@
+Table 03-1				
+Requirements for Basic First Aid Unit Package
+Unit first aid item	Minimum Size  or Volume  (metric)	Minimum Size or Volume  (US)	Item  quantity  per unit package	Unit package size
+Absorbent Compress 	206 cm2 	32 in2 	1	1
+Adhesive Bandage 	2.5 x 7.5 cm 	1 x 3 in 	16	1
+Adhesive Tape 	2.3 m 	2.5 yd (total) 	1 or 2 	1 or 2 
+Antiseptic Wipe 	2.5 x 2.5 cm 	1 x 1 in. 	10	1
+"Aspirin, Individually Wrapped "	325 mg 	 	2	2
+Bandage Compress (2 in-4 in) 	5 x 91 cm 	2 x 36 in. 	4	1
+Burn Dressing 	10 x 10 cm 	4 x 4 in 	1	2-Jan
+Burn Treatment 	0.9	1/32 fl. Oz. 	6	1
+Cold Pack 	10 x 12.5 cm 	4 x 5 in 	1	1
+*Combat style Tourniquet with  Windlass 	95.3 x 3.8 	37.5 x 1.5 in. Width	1	1
+CPR Breathing Barrier 	 	 	1	1
+Eye Covering, with means of attachment	19 cm2 	2.9 in2 	2	1
+Eye/Skin  Wash 	118 ml (total) 	4 fl. oz total 	1	2
+First Aid Guide 	 	 	1	1
+"Gloves, latex free "	XL 	XL 	2 pair 	1
+Hand Sanitizer 	0.9 g 	1/32 oz. 	6	 
+Occlusive Dressing 	10.2 x 10.2 	4 x 4 	1	2
+Roller Bandage (2 in.) 	5 x 366 cm 	2 in. x  4 yd. 	2	1
+Roller Bandage (4 in.) 	10 x 366 cm 	4 in. x  4 yd. 	1	1
+Sterile pad 	7.5 x 7.5 cm 	3 x 3 in. 	4	1
+Triangular Bandage 	101 x 101 x 14 cm 	40 x 40 x 56 in.	1	1
+*Required when power tools in use.				

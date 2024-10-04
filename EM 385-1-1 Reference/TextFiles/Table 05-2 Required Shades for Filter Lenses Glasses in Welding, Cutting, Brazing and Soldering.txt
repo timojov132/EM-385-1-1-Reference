@@ -1,0 +1,25 @@
+Table 05-2	
+Required Shades for Filter Lenses/Glasses in Welding, Cutting, Brazing, and Soldering
+OPERATION 	SHADE NUMBER 
+Soldering 	2
+Torch Brazing 	3 or 4 
+Cutting (light) up to 1 in (2.5 cm) 	3 or 4 
+Cutting (medium) 1 to 6 in  (2.5 to 15.2 cm) 	4 or 5 
+Cutting (heavy) 6 in (15.2 cm) or more 	5 or 6 
+Gas welding (light) up to 1/8 in (0.3 cm) 	4 or 5 
+Gas welding (medium)  	5 or 6 
+1/8 to 1/2 in (0.3 to 1.2 cm) 	
+Gas welding (heavy) 1/2 in  (1.2 cm) or more 	6 or 8 
+Atomic hydrogen welding 	10 – 14 
+Inert-gas metal-arc welding (nonferrous):  	11
+1/16 in to 5/32 in  	
+(0.1 to 0.4 cm) electrodes 	
+Inert-gas metal-arc welding (ferrous) - 1/16 to 5/32 in (0.1 to 0.4 cm) electrodes 	12
+Shielded metal-arc welding 1/16 to 5/32 in (0.1 to 0.4 cm) electrodes	10
+Shielded metal-arc welding 3/16 to 1/4 in (0.4 to 0.6 cm) electrodes 	12
+Shielded metal-arc welding 5/16 to 3/8 in (0.7 to 0.9 cm) electrodes 	14
+Carbon arc welding 	14
+Plasma arc cutting up to 100 amps 	8
+Plasma arc cutting 100 to 200 amps 	10
+Plasma arc cutting 200 to 400 amps 	12
+Plasma arc cutting greater than 400 amps 	14

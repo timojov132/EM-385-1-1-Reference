@@ -1,0 +1,14 @@
+Table G-4			
+Dive Team Composition			
+"Surface Supplied Air, 0 to 100 ft Requiring Decompression and"			
+"All Surface Supplied Air, 101 to 190 ft (30.8 to 57.9 m)"			
+	Dives within	Dives requiring decompression	
+Personnel	no decompression		Penetration Dive
+Diving Supervisor	1	1	1
+			
+Chamber Operator**	**/1	****/1	1
+Diver	1	1	2
+Standby Diver*	1	1	1
+Tender	1	1	2
+Standby Diver Tender	1	1	1
+TOTAL TEAM	6-May	6-May	8

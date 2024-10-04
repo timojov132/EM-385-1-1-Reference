@@ -1,0 +1,8 @@
+Table G-1	
+Dive Team Composition	
+"SCUBA - Untethered, 0 to 100 ft (0 to 30.5 m)"	
+Personnel	Number
+Diving Supervisor	1
+Divers (in visual contact)	2
+Standby Diver*	1
+TOTAL TEAM	4

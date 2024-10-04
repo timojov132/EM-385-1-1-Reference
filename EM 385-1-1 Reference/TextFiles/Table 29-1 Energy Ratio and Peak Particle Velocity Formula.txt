@@ -1,0 +1,4 @@
+Table 29-1
+Energy Ratio and Peak Particle Velocity Formula
+The maximum total energy ration (ER) shall be limited to 1.0, calculated as follows:\n.    ER = (3.29FA)^2\nwhere:\nF = frequency in cycles per second\nA = amplitude in inches\n\nThe total energy ratio is equal to the arithmetic sum of the energy ratios in the 3 mutually perpendicular  planes of motion in the vertical horizontal directions at any one instant of time.
+The maximum total peak particle velocity (PV) shall be limited to 1.92, calculated as follows:\n       PV = A/t\nwhere:\n A = amplitude in inches\nt = time in seconds\n\nThe total peak particle velocity is equal to the vector sum of the particle velocities in the 3 mutually perpendicular  planes of motion in the vertical and horizontal directions at any one instant of time.

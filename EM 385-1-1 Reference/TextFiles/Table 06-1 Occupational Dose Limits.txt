@@ -1,0 +1,7 @@
+Table 06-1
+Occupation Dose Limits
+Body part	Annual limits with RSSO approval	Annual limits without RSSO approval	Suggested ALARA limit
+Whole body	5 rem (0.05 Sv)	0.5 rem (0.005 Sv)	0.1 rem (0.001 Sv)
+Individual organ	50 rem (0.5 Sv)	5 rem (0.05 Sv)	0.5 rem (0.005 Sv)
+Lens of eye	15 rem (0.15 Sv)	1.5 rem (0.015 Sv)	0.15 rem (0.0015 Sv)
+Skin or extremity	50 rem (0.5 Sv)	5 rem (0.05 Sv)	0.5 rem (0.005 Sv)

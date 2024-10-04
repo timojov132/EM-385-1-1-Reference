@@ -1,0 +1,9 @@
+Table 09-2	
+Outside Storage of LP-Gas Containers and Cylinders - Minimum Distances	
+Quantity of LP-Gas stored	Distance
+Less than 500 lb (227 kg)	0 ft
+500 lb (227 kg)	10 ft (3 m)
+"6,000 lb (2730 kg)"	
+"6,000 lb (2730 kg)"	20 ft (6 m)
+"10,000 lb (4545 kg)"	
+"More than 10,000 lb (4545 kg)"	25 ft (7.6 m)

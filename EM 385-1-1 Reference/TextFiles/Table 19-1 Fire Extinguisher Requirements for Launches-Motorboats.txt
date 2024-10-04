@@ -1,0 +1,6 @@
+Table 19-1
+Fire Extinguisher Requirements for Launches/Motorboats
+Length	Extinguisher
+Less than 26 ft (7.9 m)	One 1-A:10-B:C
+26 ft (7.9 m) or more	Two 1-A:10-B:C
+	

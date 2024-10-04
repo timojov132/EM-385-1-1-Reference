@@ -14,12 +14,9 @@ public class DictionaryLoader {
         if let url = Bundle.main.url(forResource: "Definitions", withExtension: "json") {
             
             do {
-                print("Start")
                 let jsonData = try Data(contentsOf: url)
-                print("Loaded")
                 let decoder = JSONDecoder()
                 self.dict = try decoder.decode([DictionaryData].self, from: jsonData)
-                print("success")
             } catch {
                 print(error)
             }
